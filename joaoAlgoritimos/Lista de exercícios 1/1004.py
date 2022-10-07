@@ -1,3 +1,5 @@
+#Arquivos editados
+
 #https://www.beecrowd.com.br/judge/pt/problems/view/1004
 
 A = int(input(""))

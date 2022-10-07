@@ -8,3 +8,4 @@ Em um terminal basta digitar:
 python nomeDoArquivo.py
 
 Pronto, você acaba de executar um arquivo!
+Trabalho feito por João Marcelo e Guilherme Cortez.

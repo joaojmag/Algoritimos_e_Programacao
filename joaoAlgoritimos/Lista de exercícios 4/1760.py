@@ -1,3 +1,7 @@
+#Lista editada
+
+
+
 #https://www.beecrowd.com.br/judge/pt/custom-problems/view/1760
 
 somaIdade = 0
